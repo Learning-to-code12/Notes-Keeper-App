@@ -1,6 +1,6 @@
 # Notes-Keeper-App
 Run 
-# npm install
+### npm install
 to download all the packages and then
-# npm start
+### npm start
 to run the project locally on your computer
